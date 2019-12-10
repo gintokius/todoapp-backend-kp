@@ -1,0 +1,1 @@
+Backend for todoapp-kp, written in Scala Play with Slick ORM
